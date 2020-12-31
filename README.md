@@ -1,1 +1,2 @@
-# sentiment-analysis
+![Logo](/Sentiment-Analysis.png)
+
